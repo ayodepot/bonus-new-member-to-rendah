@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle bonus-new-member-to-rendah'
+      'command': 'bonus-new-member-to-rendah:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'bonus-new-member-to-rendah'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'bonus-new-member-to-rendah:toggle'
+        }
+      ]
+    ]
+  }
+]

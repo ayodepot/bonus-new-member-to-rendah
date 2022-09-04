@@ -1,0 +1,24 @@
+{
+  "name": "bonus-new-member-to-rendah",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Promo Bonus New Member Hingga 200 Disini | Situs Permainan Judi Online",
+  "keywords": [
+    "bonus new member",
+    "bonus member baru",
+    "bonus new member 100",
+    "slot bonus new member",
+    "slot bonus member baru",
+    "agen slot bonus new member",
+    "slot bonus new member gacor",
+    "situs slot bonus member baru",
+    "slot bonus new member to rendah",
+    "slot bonus new member 100 di awal",
+    "slot bonus new member 100"
+  ],
+  "repository": "https://github.com/ayodepot/bonus-new-member-to-rendah",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
